@@ -1,4 +1,4 @@
-# Age-Based Versioning v1.0 Documentation
+# Age-based Versioning v1.0 Documentation
 
 ![selfv](./image/selfv.jpg)
 
