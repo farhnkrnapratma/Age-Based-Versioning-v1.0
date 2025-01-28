@@ -1,7 +1,5 @@
 # Age-based Versioning v1.0 Documentation
 
-![selfv](./image/selfv.jpg)
-
 > IMPORTANT NOTE: Because this documentation was translated from Indonesian to US English with less suitable tools, there may be many grammar errors. Therefore, I ask if anyone wants to help rewrite the documentation using the correct language rules for the convenience of the readers. If anyone is willing, please open a pull request in this repository on the main branch or please get in touch with me via email at farhnkrnapratma@gmail.com or contact me via WhatsApp at +62 853 7710 2721 or Telegram @farhnkrnapratma.
 
 ## Introduction
