@@ -2,7 +2,7 @@
 
 ![selfv](./image/selfv.jpg)
 
-> IMPORTANT NOTE: Because this documentation was translated from Indonesian to US English with less suitable tools and done quickly, there may be many errors in writing and grammar. Therefore, as the creator, I ask if anyone wants to help rewrite the documentation using the correct language rules for the convenience of the readers. If anyone is willing, please open a pull request in this repository on the main branch or please get in touch with me via email at farhnkrnapratma@gmail.com or contact me via WhatsApp at +62 853 7710 2721 or Telegram @farhnkrnapratma.
+> IMPORTANT NOTE: Because this documentation was translated from Indonesian to US English with less suitable tools, there may be many grammar errors. Therefore, I ask if anyone wants to help rewrite the documentation using the correct language rules for the convenience of the readers. If anyone is willing, please open a pull request in this repository on the main branch or please get in touch with me via email at farhnkrnapratma@gmail.com or contact me via WhatsApp at +62 853 7710 2721 or Telegram @farhnkrnapratma.
 
 ## Introduction
 
@@ -14,5 +14,4 @@ You can read the full documentation [here](./docs/selv-docs_v1.0.pdf) or downloa
 
 ---
 
-© 2025 "Age Based Versioning" by Farhan Kurnia Pratama, licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
-(https://creativecommons.org/licenses/by-sa/4.0/)
+© 2025 Farhan Kurnia Pratama, licensed under the GNU General Public License v3.0 (https://www.gnu.org/licenses/gpl-3.0.txt)
