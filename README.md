@@ -10,7 +10,7 @@ Age-based versioning is a versioning that is determined based on the age of `som
 
 ## Documentation
 
-You can read the full documentation [`here`](./docs/selv-docs_v1.0.pdf) or download the documentation [`here`](https://github.com/farhnkrnapratma/selfv/releases/tag/v1.0) [`🗑️deprecated soon`].
+You can read the full documentation [`here`](./docs/selfvdocs_v1.0.pdf) or download the documentation [`here`](https://github.com/farhnkrnapratma/selfv/releases/tag/v1.0) [`🗑️deprecated soon`].
 
 ---
 
