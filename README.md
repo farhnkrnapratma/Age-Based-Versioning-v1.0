@@ -1,7 +1,6 @@
 # Age-based Versioning v1.0 Documentation
 
 > **IMPORTANT NOTE**: Documentation and Age-based Versioning is deprecated due to major improvements to itself and its documentation. Please check the changelog when the latest version is released.
-> Correspondence contact: [`farhnkrnapratma@gmail.com`](farhnkrnapratma@gmail.com)
 
 ## Introduction
 
@@ -16,7 +15,7 @@ Age-based versioning is determined based on the age of _something_ which increas
 > Self v25.2+01022025_01012000   # in full form | date format [DDMMYYYY]
 ```
 
-The latest version will support release stages, for example cases: A software company x will launch their software on `May 25, 2025` and will go through several stages of release before becoming a `stable` version on `February 25, 2027`, the first `LTS` version on `May 25, 2028` and `EOL` for the first `LTS` version on `May 25, 2033`, example table:
+The latest version will support release stages, for example, in cases: A software company x will launch the software on `May 25, 2025` and will go through several stages of release before becoming a `stable` version on `February 25, 2027`, the first `LTS` version on `May 25, 2028` and `EOL` for the first `LTS` version on `May 25, 2033`, the example table:
 
 | Release Stages            | Example Format        |
 |------------------------|---------------------|
@@ -45,7 +44,7 @@ You can read the full documentation [`here`](./docs/selfvdocs_v1.0.pdf) or downl
 
 ## License Notice
 
-This document and the ideas contained within it are licensed under the **Creative Commons Attribution-NoDerivatives-NonCommercial 4.0 International License**. This means you are free to share (copy and redistribute the material in any medium or format) as long as you provide appropriate credit. However, you may not modify, adapt, or create derivative works based on this material, nor use it for commercial purposes. 
+This document and its ideas are licensed under the **Creative Commons Attribution-NoDerivatives-NonCommercial 4.0 International License**. This means you are free to share (copy and redistribute the material in any medium or format) as long as you provide appropriate credit. However, you may not be able to modify, adapt, or create derivative works based on this material, nor use it for commercial purposes. 
 
 For full license details, visit: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
 
