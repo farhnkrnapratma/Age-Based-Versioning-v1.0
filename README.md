@@ -1,4 +1,4 @@
-# Age-based Versioning v1.0 Documentation
+# 📖 Age-based Versioning v1.0 Documentation
 
 > **IMPORTANT NOTE**: Documentation and Age-based Versioning is deprecated due to major improvements to itself and its documentation. Please check the changelog when the latest version is released.
 
