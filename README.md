@@ -19,10 +19,10 @@ The latest version will support release stages, for example, in cases: A softwar
 
 | Release Stages            | Example Format        |
 |------------------------|---------------------|
-| **Pre-Alpha**         | `Self v4+25092025-prealpha.1` or `v4-prealpha.1`  |
-| **Alpha**             | `Self v8+25012026-alpha.1` or `v8-alpha.1`     |
-| **Beta**              | `Self v1.3+25082026-beta.1` or `v1.3-beta.1`      |
-| **RC (Release Candidate)** | `Self v1.7+25122026-rc.1` or `v1.7-rc.1`     |
+| **Pre-Alpha**         | `Self v4+25092025-prealpha.1` or `v4-prealpha`  |
+| **Alpha**             | `Self v8+25012026-alpha.1` or `v8-alpha`     |
+| **Beta**              | `Self v1.3+25082026-beta.1` or `v1.3-beta`      |
+| **RC (Release Candidate)** | `Self v1.7+25122026-rc.1` or `v1.7-rc`     |
 | **Stable (Final Release)** | `Self v1.9+25022027` or `v1.9`         |
 | **LTS (Long-Term Support)** | `Self v3.0+25052028-lts` or `v3.0-lts`   |
 | **EOL (End of Life)** | `Self v8.0+25052033-eol` or `v8.0-eol` |
@@ -32,9 +32,9 @@ The latest version will support release stages, for example, in cases: A softwar
 | Release Stages            | Example Format        |
 |------------------------|---------------------|
 | **Nightly Build**     | `Self v9+25022026-nightly.01032026` or `v9-nightly.01032026` |
-| **Canary Build**      | `Self v10+25032026-canary.3` or `v10-canary.3`    |
-| **Dev (Development Build)** | `Self v11+25042026-dev.4` or `v11-dev.4` |
-| **Preview / Insider** | `Self v1.0+25052026-preview.5` or `v1.0-preview.5`   |
+| **Canary Build**      | `Self v10+25032026-canary.3` or `v10-canary`    |
+| **Dev (Development Build)** | `Self v11+25042026-dev.4` or `v11-dev` |
+| **Preview / Insider** | `Self v1.0+25052026-preview.5` or `v1.0-preview`   |
 | **ESR (Extended Support Release)** | `Self v12.0+25052037-esr` or `v12.0-esr` |
 | **GA (General Availability)** | `Self v1.9+25022027-ga` or `v1.9-ga` |
 
